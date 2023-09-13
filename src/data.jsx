@@ -61,13 +61,13 @@ export const skills = [
   },
   {
     id: nanoid(),
-    title: "SQL & Non-SQL Databases",
+    title: "SQL & NoSQL Databases",
     icon: <FaDatabase className="h-16 w-16 text-emerald-500" />,
     text: "Proficient in both SQL and NoSQL databases like MySQL and MongoDB, facilitating efficient data storage, retrieval, and management for diverse application needs.",
   },
   {
     id: nanoid(),
-    title: "BootStrap & TailWind & Sass",
+    title: "BootStrap & Tailwind & Sass",
     icon: <FaBootstrap className="h-16 w-16 text-emerald-500" />,
     text: "Advanced proficiency in Bootstrap, Tailwind CSS, and Sass, enabling the development of stylish and responsive web interfaces while maintaining clean and maintainable code.",
   },
