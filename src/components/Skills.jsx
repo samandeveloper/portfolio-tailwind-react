@@ -1,4 +1,4 @@
-=//for the skills section and it includes SectionTitle and SkillsCard compoentns
+//for the skills section and it includes SectionTitle and SkillsCard compoentns
 import SectionTitle from "./SectionTitle";
 import SkillsCard from "./SkillsCard";
 import { skills } from "../data";
@@ -17,3 +17,4 @@ const Skills = () => {
   );
 };
 export default Skills;
+
